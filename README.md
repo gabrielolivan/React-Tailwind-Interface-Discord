@@ -1,3 +1,5 @@
+## [Link to Github-pages preview](https://gabrielolivan.github.io/React-Tailwind-Interface-Discord/)
+
 ![alt img](barraLateral.png)
 
 # Getting Started with Create React App
